@@ -1,5 +1,19 @@
-My nickname is Graph. I've been a full-stack software engineer for 3 years.
+<!--
+<h1 align="center">Hello 👋, I'm Graph</h1>
+<h3 align="center">Software Engineer</h3>
+-->
 
-I'm being passionate about chess. So I created an open source project called [Makruk JS](https://github.com/kaisukez/makruk-js), it's a Makruk (Thai chess) library written in Typescript.
+### I'm Graph, a software engineer.
 
-Lately I study Go language for fun in Leetcode and my private toy project.
+- Linkedin: [Nattapon Chantasiriworawat](https://www.linkedin.com/in/kaisukez/)
+- Medium: [kaisukez](https://medium.com/@kaisukez)
+- DEV: [kaisukez](https://dev.to/kaisukez)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaisukez&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisukez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kaisukez&hide=contribs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisukez&layout=compact" /></p>
+-->
