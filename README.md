@@ -8,6 +8,7 @@
 - Linkedin: [Nattapon Chantasiriworawat](https://www.linkedin.com/in/kaisukez/)
 - Medium: [kaisukez](https://medium.com/@kaisukez)
 - DEV: [kaisukez](https://dev.to/kaisukez)
+- Chess.com: [kaisukez](https://www.chess.com/member/kaisukez)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaisukez&hide=contribs&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
