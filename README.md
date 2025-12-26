@@ -10,9 +10,10 @@
 - DEV: [kaisukez](https://dev.to/kaisukez)
 - Chess.com: [kaisukez](https://www.chess.com/member/kaisukez)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaisukez&hide=contribs&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kaisukez&hide=contribs&theme=nightowl)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisukez&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaisukez&layout=compact&theme=nightowl)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kaisukez&hide=contribs" /></p>
